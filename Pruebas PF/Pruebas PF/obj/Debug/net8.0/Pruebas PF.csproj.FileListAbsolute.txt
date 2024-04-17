@@ -1,0 +1,22 @@
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.AssemblyInfoInputs.cache
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.AssemblyInfo.cs
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.csproj.CoreCompileInputs.cache
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Pruebas PF.exe
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Pruebas PF.deps.json
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Pruebas PF.runtimeconfig.json
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Pruebas PF.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Pruebas PF.pdb
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.csproj.AssemblyReference.cache
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.csproj.Up2Date
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\refint\Pruebas PF.dll
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.pdb
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\Pruebas PF.genruntimeconfig.cache
+C:\Users\Jean_K\Desktop\Pruebas-Proyecto Final\Pruebas PF\Pruebas PF\obj\Debug\net8.0\ref\Pruebas PF.dll

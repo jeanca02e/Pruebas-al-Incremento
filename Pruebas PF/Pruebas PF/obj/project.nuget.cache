@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4AeEzr2VD9rQJ5k0UaHWLZzUNgr8fvgmla8+B9NLTyptKOE/syRAnDkJYWpD+TSzqBBJBhYR5g7mOMoZnEkIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jean_K\\Desktop\\Pruebas-Proyecto Final\\Pruebas PF\\Pruebas PF\\Pruebas PF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jean_K\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Jean_K\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jean_K\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Jean_K\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
